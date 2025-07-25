@@ -21,7 +21,9 @@ I’m a versatile tech enthusiast who thrives in dynamic roles—whether buildin
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+<img align="right" alt="Developer coding animation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25yNTRnNTI1bDIxNTRubWowYXlndjJ5d2x6c203Mmd3cGxscW54aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3FjEPbKqEPhPpmC8uY/giphy.gif" width="360px"/>
+
   
 ### More About Me:
 
@@ -30,7 +32,10 @@ I’m a versatile tech enthusiast who thrives in dynamic roles—whether buildin
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Rohith-Sunil?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rohithsunil7/)
+<!-- 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1xu0JWrxx3bncO2jGKNcIJiaPso_qZR6D/view?usp=sharing)
+-->
+
 
 <br>
 
