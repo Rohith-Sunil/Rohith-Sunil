@@ -39,7 +39,7 @@ I’m a versatile tech enthusiast who thrives in dynamic roles—whether buildin
 
 <br>
 
-### 🔨 Languages and Tools:
+<!-- ### 🔨 Languages and Tools: -->
 
 
 <br>
